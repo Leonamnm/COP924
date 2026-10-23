@@ -1,2 +1,3 @@
 Session: Friday
 Session: wednesday
+session: Tuesday
